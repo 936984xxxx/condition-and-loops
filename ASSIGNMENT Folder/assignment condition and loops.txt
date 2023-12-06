@@ -1,0 +1,42 @@
+                                                                                  ASSINGMENT CONDITION AND LOOPS
+
+
+solution 1:  Conditional statements control behavior in JavaScript and determine whether or not pieces of code can run.
+
+There are multiple different types of conditionals in JavaScript including:
+
+1. “If” statements: where if a condition is true it is used to specify execution for a block of code.
+2. “Else” statements: where if the same condition is false it specifies the execution for a block of code.
+3. “Else if” statements: this specifies a new test if the first condition is false.
+
+                                                                                                  If Statement Example
+As the most common type of conditional, the if statement only runs if the condition enclosed in parentheses () is truthy.
+
+Here’s what’s happening in the example above:
+
+(i) The keyword if tells JavaScript to start the conditional statement.
+(ii) (10 > 5) is the condition to test, which in this case is true — 10 is greater than 5.
+(iii) The part contained inside curly braces {} is the block of code to run.
+(iv) Because the condition passes, the variable outcome is assigned the value "if block".
+
+                                                                                                Else Statement Example
+You can extend an if statement with an else statement, which adds another block to run when the if conditional doesn’t pass.
+
+
+                                                                                              Else If Statement Example
+You can also extend an if statement with an else if statement, which adds another conditional with its own block.
+(i) You can use multiple if else conditionals, but note that only the first else if block runs. JavaScript skips any remaining conditionals after it runs the first one that passes.
+(ii) An else if statement doesn’t need a following else statement to work. If none of the if or else if conditions pass, then JavaScript moves forward and doesn’t run any of the conditional blocks of code..
+
+
+SOLUTION 2: IN FOLDER......
+
+SOLUTION 3:  Loops are a programming element that repeat a portion of code a set number of times until the desired process is complete.                            Repetitive tasks are common in programming, and loops are essential to save time and minimize errors.
+                      (i)A for loop is a loop that runs for a preset number of times.
+                     (ii)A while loop is a loop that is repeated as long as an expression is true. An expression is a statement that has a value.
+
+SOLUTION 4: IN FOLDER.....
+
+SOLUTION 5: IN FOLDER......
+
+
